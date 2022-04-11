@@ -1,4 +1,4 @@
 # guitarMusicSintesator
 This aplication must sintez gutar music by accord
 Mentor: swatronik
-Intern:
+Intern: Vasus1998
